@@ -6,5 +6,8 @@
 
 `sudo systemctl status apache2`
 
+![Apache status](./!Capture.PNG)
+
+![Apache status](./!Capture2.PNG)
 
 
