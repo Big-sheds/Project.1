@@ -13,7 +13,8 @@
 
 ![Apache-status](./images/Capture2.PNG)
 
-We need to open TCP port 80 which is the default port that web browsers use to access web pages on the Internet.So we need to add a rule to EC2 configuration to open inbound connection through port 80:
+We need to open TCP port 80 which is the default port that web browsers use to access web pages on the Internet.
+So we need to add a rule to EC2 configuration to open inbound connection through port 80:
 
 ![Apache-status](./images/Capture3.PNG)
 Our server is running and we can access it locally and from the Internet.
